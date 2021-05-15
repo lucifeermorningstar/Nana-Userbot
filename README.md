@@ -27,7 +27,7 @@ Currently work fine perfectly, but some features may give you error. Please repo
 
 ### Installation Guide
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lucifeermorningstar/Nana-Userbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lucifeermorningstar/Nana-Userbot/tree/patch-2)
 
 See our wikis to get [Installation Guide](https://github.com/AyraHikari/Wiki-Nana-Userbot/wiki).
 
